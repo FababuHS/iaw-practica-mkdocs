@@ -9,8 +9,7 @@ theme:
   name: material
   language: es
   palette:
-    primary: lime
-    accent: amber
+    primary: amber    
   extra:
   consent:
     title: Cookie consent
