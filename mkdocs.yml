@@ -10,6 +10,7 @@ theme:
   language: es
   palette:
     primary: lime
+    accent: amber
   extra:
   consent:
     title: Cookie consent
