@@ -4,12 +4,14 @@ nav:
   - Principal: index.md
   - Acerca de: about.md
   - Practicas: practicas.md
+  - Pruebas: deprueba.md
 
 theme:
   name: material
   language: es
   palette:
-    primary: amber    
-
+    primary: lime    
+  font:
+    text: roboto
 
 
