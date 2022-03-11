@@ -16,4 +16,5 @@ theme:
     text: roboto
   features:
     - header.autohide
+  logo: images/panda.jpeg
 
