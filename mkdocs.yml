@@ -14,5 +14,6 @@ theme:
     accent: cyan
   font:
     text: roboto
-
+  features:
+    - header.autohide
 
