@@ -11,6 +11,7 @@ theme:
   language: es
   palette:
     primary: lime    
+    accent: cyan
   font:
     text: roboto
 
