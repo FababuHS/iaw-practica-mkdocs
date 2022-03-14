@@ -11,7 +11,10 @@ theme:
   language: es
   palette:
     primary: lime    
+    accent: cyan
   font:
     text: roboto
-
+  features:
+    - header.autohide
+  logo: images/panda.jpeg
 
